@@ -1,0 +1,5 @@
+SpeechRecognition
+PyAudio
+requests
+pymorphy2
+pymorphy2-dicts-ru
