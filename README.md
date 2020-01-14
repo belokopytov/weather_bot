@@ -16,4 +16,4 @@ Uses Wit.ai (https://wit.ai/) as cloud speech recognizer, pymorphy2 (https://pym
   `(venv)$ pip install -r requirements.txt`
 
 * start bot in venv
-  `(venv)$ python weather_bot.py
+  `(venv)$ python weather_bot.py`
